@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Taller de React con Typescript (Plantilla)
 
-## Getting Started
+<div align="center">
+    <img width="200" src="./docs/images/logoasl.png" alt="Aula Software Libre de la UCO">
+</div>
 
-First, run the development server:
+<div align="center">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![built by developers](https://img.shields.io/badge/built%20by-developers%20%3C%2F%3E-orange.svg?longCache=true&style=for-the-badge) ![made with mkdocs](https://img.shields.io/badge/made%20with-mkdocs-green.svg?longCache=true&style=for-the-badge) ![uses git](https://img.shields.io/badge/uses-git-blue.svg?longCache=true&style=for-the-badge)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Esta plantilla proporciona un punto de partida para el desarrollo de aplicaciones React utilizando TypeScript. Incluye configuraciones preestablecidas para herramientas esenciales como ESLint, Prettier, Vitest, y Storybook, facilitando un entorno de desarrollo coherente y listo para usar.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Este taller forma parte de las actividades del [Aula de Software Libre de la Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
 
-## Learn More
+La documentación está accesible en: [https://aulasoftwarelibre.github.io/taller-de-next-con-typescript-docs/](https://aulasoftwarelibre.github.io/taller-de-next-con-typescript-docs/).
 
-To learn more about Next.js, take a look at the following resources:
+## Cómo usar esta plantilla
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para comenzar a usar esta plantilla para tu propio proyecto, sigue estos pasos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Visita la página del repositorio en GitHub.
+1. Haz clic en el botón "Use this template" (Usar esta plantilla).
+1. Asigna un nombre a tu nuevo repositorio y opcionalmente, proporciona una descripción.
+1. Elige si quieres que el repositorio sea Público o Privado.
+1. Haz clic en "Create repository from template" (Crear repositorio a partir de la plantilla) para crear tu nuevo proyecto.
 
-## Deploy on Vercel
+## Iniciar con GitHub Codespaces
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+GitHub Codespaces te permite iniciar un entorno de desarrollo completo y listo para usar en la nube, lo que te permite trabajar en tu proyecto desde cualquier lugar.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para iniciar tu proyecto en GitHub Codespaces:
+
+1. Ve a tu nuevo repositorio creado a partir de esta plantilla.
+1. Haz clic en el botón "Code" (Código) y luego en "Open with Codespaces" (Abrir con Codespaces).
+1. Selecciona "New codespace" (Nuevo codespace) al final de la lista para crear un nuevo entorno de desarrollo.
+
+Tu codespace se configurará automáticamente con todas las dependencias y configuraciones necesarias para comenzar a trabajar en tu proyecto React con TypeScript.
